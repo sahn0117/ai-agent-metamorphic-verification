@@ -1,0 +1,9 @@
+name: thesis-framework
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.15
+  - pip
+  - pip:
+      - ollama>=0.4,<1
+      - mcp>=1,<2

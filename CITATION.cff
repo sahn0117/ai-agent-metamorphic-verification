@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this reference implementation in research, please cite the repository and the associated master's thesis."
+title: "A Study on Program Functional Verification with AI Agents based on Intent Structuring and Metamorphic Testing"
+type: software
+version: "1.0.0-thesis-reference"
+date-released: 2026-09-22
+authors:
+  - family-names: Huang
+    given-names: Yu-Siang
+    affiliation: "National Pingtung University of Science and Technology"
+abstract: >-
+  Reference implementation of a master's thesis framework for functional
+  verification of AI-agent-generated programs using intent structuring,
+  program behavior analysis, rule-validated metamorphic testing, structured
+  defect feedback, and iterative repair.
+keywords:
+  - AI Agent
+  - Program Verification
+  - Intent Structuring
+  - Metamorphic Testing
+  - Software Engineering

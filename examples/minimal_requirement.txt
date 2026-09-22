@@ -1,0 +1,1 @@
+設計一個 Counter 類別，初始值為 0。提供 increment(amount)、decrement(amount) 與 get_value() 方法。amount 必須是正整數；非法輸入不得改變目前狀態。decrement 不得讓數值低於 0。
